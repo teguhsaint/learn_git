@@ -10,6 +10,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <title>Document</title>
 </head>
 <body>
-    <h1> GIT </h1>
+    <h1> Diskusi Desktop  </h1>
 </body>
 </html>
